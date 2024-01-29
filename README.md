@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
   <head>
    <meta charset="utf-8">
@@ -8,8 +7,7 @@
  <body>
    <header class="site-header">
     <div class="container">
-     <h1>Наталья</h1>
-     <p>Я - парикмахер такой же индивидуальный, как и ты!</p>
+      <img src="img/Frame 1.png">
     </div>
    </header>
 
