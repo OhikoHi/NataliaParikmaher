@@ -6,3 +6,12 @@ body {
   line-height: 20px;
   color: #DCAE47;
 }
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 150px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("img/Frame 1.png");
+  background-size: cover;
+  color: #ffffff;
+}
